@@ -19,7 +19,7 @@ After STOP 1, help the student propose and approve the six TARGET lines and one 
 
 ## My standing rule
 
-[One observable, student-approved rule that protects this project's purpose or experience.]
+Every clinic result must be visibly labeled as sample directory information and must state: “Verify services, insurance coverage, referral requirements, cost, and availability directly with the clinic before booking.” The site must not present a clinic–insurance match as guaranteed coverage.
 
 ## Workflow
 
